@@ -32,3 +32,5 @@ Don't worry, these dependencies can be easily installed using the requirements.t
 
 ## Contributions Welcome! ##
 We welcome any contributions to this fun project! If you have any improvements or bug fixes, don't hesitate to submit a pull request. Let's make the Lucky Number Predictor even better!
+
+#creditstoChatGPT for making this readme file fun! :D
